@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269058309653",
+    "project_id": "rock-payment",
+    "storage_bucket": "rock-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269058309653:android:e734183f9187334a4ed81c",
+        "android_client_info": {
+          "package_name": "com.rockstreamer.rockstreamerpayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269058309653-b5f2qr9dbaqc9ff8o0n9lja847574qi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rockstreamer.rockstreamerpayment",
+            "certificate_hash": "26f0e36c6965430d80f1da26c8257a31264e7070"
+          }
+        },
+        {
+          "client_id": "269058309653-3s31kcgrutoa2k0b6appu1gl0nquuskd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6MBN6DydIBL48f-lANvTmlQhSZaoV9hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269058309653-3s31kcgrutoa2k0b6appu1gl0nquuskd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
