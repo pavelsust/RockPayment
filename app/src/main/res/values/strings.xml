@@ -10,4 +10,6 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="payment_token">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoXEMRgbPrzyP4pqHmwrf9XhL1T39KgHv757kpBCOEjg8s2DekSlv2q3JMZtCOiARWx3bh9CqMBs7bR8PhQh93hyogRQf50Hk4AEZz3xzmtXX5mfZGzQagYBBW21UZqO4XHCb4oyV7TrbI7uxirN8TSGVmkTs3r7s2qaRXXUN+JnOU/710d4v9sFnNMNFRzk6RnLmGmwLARsZlXdIPLUdaXcWbzQHWUCthbSs+f5k8yVrTsgAW5DzpbFEO1GUhDMclZZ11GPsadgp7iSJM+xt8xLjvjXdeTRGSAUhkXYDiGwpWIt8xQCVeWcDnxI/xj3yywpXqzSOw8CsKmqHtaI1BwIDAQAB</string>
+    <string name="purchaes_info">Info</string>
+    <string name="restore">Restore</string>
 </resources>
